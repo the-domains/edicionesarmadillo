@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Battle of the Two Sides
-datePublished: '2016-05-11T09:44:21.516Z'
-dateModified: '2016-05-11T09:44:00.077Z'
+datePublished: '2016-05-11T09:46:00.177Z'
+dateModified: '2016-05-11T09:44:24.516Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-the-battle-of-the-two-sides.md
