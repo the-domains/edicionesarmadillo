@@ -1,0 +1,28 @@
+name: Ediciones Armadillo
+favicon: null
+layout_spectrum: 0.5374234882183373
+typography_spectrum: 0.8434925996698439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2833818309009075
+  lightness: 0.41068724426440895
+  saturation: 0.5490952935069799
+  rhythmicContrast: 0.16104754875414073
+purpose: []
