@@ -4,21 +4,21 @@
         <description><![CDATA[Ediciones Armadillo]]></description>
         <link>https://thegrid.ai/edicionesarmadillo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 10:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 10:14:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edicionesarmadillo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Battle of the Two Sides]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14964e46-f866-4c8c-a6be-63247eff0f09.jpg">]]></description>
+            <link>https://thegrid.ai/edicionesarmadillo/the-battle-of-the-two-sides/index.html</link>
+            <guid isPermaLink="false">f53ca33b-991a-41ec-8a1f-3fec3446eaa1</guid>
+            <pubDate>Wed, 11 May 2016 10:13:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2838c0b9-d022-4c67-8a44-9fb3578f7885.jpg">]]></description>
             <link>https://thegrid.ai/edicionesarmadillo/9f499e94-97e9-4b15-b728-de90c8007724/index.html</link>
             <guid isPermaLink="false">9f499e94-97e9-4b15-b728-de90c8007724</guid>
             <pubDate>Wed, 11 May 2016 10:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Battle of the Two Sides]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14964e46-f866-4c8c-a6be-63247eff0f09.jpg">]]></description>
-            <link>https://thegrid.ai/edicionesarmadillo/the-battle-of-the-two-sides/index.html</link>
-            <guid isPermaLink="false">f53ca33b-991a-41ec-8a1f-3fec3446eaa1</guid>
-            <pubDate>Wed, 11 May 2016 09:55:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
