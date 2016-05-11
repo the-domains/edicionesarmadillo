@@ -1,7 +1,7 @@
 name: Ediciones Armadillo
 favicon: null
-layout_spectrum: 0.5374234882183373
-typography_spectrum: 0.8434925996698439
+layout_spectrum: 0.76447
+typography_spectrum: 0.57763
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#ff7372'
+    - '#000000'
+    - '#565656'
+    - '#acacac'
   brandStrength: 0.2833818309009075
-  lightness: 0.41068724426440895
-  saturation: 0.5490952935069799
-  rhythmicContrast: 0.16104754875414073
+  lightness: 0.8125
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
